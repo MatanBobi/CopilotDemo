@@ -1,4 +1,5 @@
-// Hello, is it me you're looking for?
+// Hello?
+// Is it me you're looking for?
 // I can see it in your eyes
 // I can eee it in your smile
 // You're all I've ever wanted <3
