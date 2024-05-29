@@ -1,7 +1,7 @@
 // Hello?
 // Is it me you're looking for?
 // I can see it in your eyes
-// I can eee it in your smile
+// I can see it in your smile
 // You're all I've ever wanted <3
 
 // Hello? It's me
